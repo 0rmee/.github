@@ -1,26 +1,20 @@
 # 오르미 : 하나로 끝내는 수업 관리의 새로운 기준
 
-## [✏️ 앱스토어(IOS) 바로가기]() 
-## [✏️ 플레이스토어(android) 바로가기]()
-## [✏️ 웹사이트 바로가기](https://ormee-mvp.web.app/)
-
 ![헤더](https://github.com/user-attachments/assets/23f94a71-4056-452a-820f-f70542de8452)
 
 
-## 👨‍🏫 프로젝트 소개
-
-하나로 끝내는 수업 관리의 새로운 기준
-
-> 강사의 부담을 줄이고 강의의 질을 높이는 자동화 수업 관리 솔루션
-
-<br/>
-
-## 🚩 프로젝트 개요
+## 📍 프로젝트 소개
+  
+  하나로 끝내는 수업 관리의 새로운 기준 
+  
+  강사의 부담을 줄이고 강의의 질을 높이는 자동화 수업 관리 솔루션
 
 - **프로젝트명** &nbsp; :&nbsp;
   **오르미**
 - **진행 기간** &nbsp;: &nbsp;
   **24.11.01 ~ 진행중**
+
+
 
 <br/>
 
@@ -61,3 +55,8 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/FIGMA-pink?style=for-the-badge&logo=FIGMA&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white"> 
 
 <br/>
+
+
+## [✏️ 앱스토어(IOS) 바로가기]() 
+## [✏️ 플레이스토어(android) 바로가기]()
+## [✏️ 웹사이트 바로가기](https://ormee-mvp.web.app/)
