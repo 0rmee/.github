@@ -19,15 +19,15 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d0737378-f6fb-4de2-aa8f-d4df360f1b76" width="49%">
-  <img src="https://github.com/user-attachments/assets/2b740a93-a209-4fa2-8e16-2b53dbcc1aaf" width="49%">
+  <img src="https://github.com/user-attachments/assets/d0737378-f6fb-4de2-aa8f-d4df360f1b76" width="49.7%">
+  <img src="https://github.com/user-attachments/assets/2b740a93-a209-4fa2-8e16-2b53dbcc1aaf" width="49.7%">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/501ee543-0429-4b4d-8800-e6ba8a7adb96" width="49%">
-  <img src="https://github.com/user-attachments/assets/91fc3c3e-62f7-477e-8f2c-1156803e078d" width="49%">
+  <img src="https://github.com/user-attachments/assets/501ee543-0429-4b4d-8800-e6ba8a7adb96" width="49.7%">
+  <img src="https://github.com/user-attachments/assets/91fc3c3e-62f7-477e-8f2c-1156803e078d" width="49.7%">
 </p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/483b5151-edd4-4bec-af38-1b3884925ed2" width="49%">
+<p >
+  <img src="https://github.com/user-attachments/assets/483b5151-edd4-4bec-af38-1b3884925ed2" width="49.7%">
   <!--<img src="" width="45%">-->
 </p>
 
