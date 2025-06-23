@@ -40,7 +40,7 @@
 
 **상태 관리**
 
-<img src="https://img.shields.io/badge/getX-8A2BE2?style=for-the-badge&logo=getX&logoColor=white">
+<img src="https://img.shields.io/badge/getX-8A2BE2?style=for-the-badge&logo=getX&logoColor=white"> <img src="https://img.shields.io/badge/Bloc-8A2BE2?style=for-the-badge&logo=bloc&logoColor=white">
 
 **데이터베이스, 인증**
 
@@ -52,7 +52,7 @@
 
 **협업, 설계**
 
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/FIGMA-pink?style=for-the-badge&logo=FIGMA&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white"> 
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/FIGMA-pink?style=for-the-badge&logo=FIGMA&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/intelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> 
 
 <br/>
 
